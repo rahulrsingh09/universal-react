@@ -7,6 +7,10 @@
 
 # testing
 /coverage
+misc.xml
+modules.xml
+universal-react.iml
+vcs.xml
 
 # production
 /build
